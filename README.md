@@ -2,7 +2,8 @@
 
 Weather App shows the next 7 days forecast, starting from the current day.
 
-[Open Weather Map](https://openweathermap.org/api) - [One Call Api](https://openweathermap.org/api/one-call-api), get an api key and replace ./services/WeatherService -> API_KEY="YOU API KEY"
+[Open Weather Map](https://openweathermap.org/api) - [One Call Api](https://openweathermap.org/api/one-call-api), get an api key and replace ./services/WeatherService.js -> const API_KEY = "YOUR API KEY";
+
 
 ## Desktop
 
