@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "294391145b225b18dd7e18175a9ec13a";
+const API_KEY = "YOUR API KEY";
 
 const SERVICE_URL = "https://api.openweathermap.org/data/2.5/onecall?";
 
